@@ -1,7 +1,7 @@
 # Learning AI in Public
 
 Hi, I’m Sharvari 👋  
-This repository documents my journey of learning how artificial intelligence actually works — by building and experimenting in public.
+This repository documents my journey of learning how artificial intelligence actually works , by building and experimenting in public.
 
 ## Why this repo exists
 - To move beyond tutorials and understand AI fundamentals
@@ -15,5 +15,5 @@ This repository documents my journey of learning how artificial intelligence act
 - Mistakes, fixes, and reflections
 
 ## Current status
-Day 1 — just getting started 🚀
+Day 1 just getting started 🚀
 #LowKeyIntense
